@@ -1,3 +1,3 @@
-# Synth Wave '84 Luis Reyes' Remix
+# Synth Wave '84 Min Theme
 
-Fork of Robb Owen's [SynthWave '84](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode) with minor color changes to improve readability although it lack the neon like effect if thats what you are looking for,  This includes only the color theme, it doesn't come with the "glow" effect option
+Fork of Luis Reyes [Synth Wave '84 Luis Reyes' Remix](https://marketplace.visualstudio.com/items?itemName=luis-reyes.synth-wave-remix) with minor color changes to improve readability although it lack the neon like effect if thats what you are looking for,  This includes only the color theme, it doesn't come with the "glow" effect option
