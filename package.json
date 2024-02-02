@@ -1,16 +1,16 @@
 {
     "name": "synth-wave-remix",
-    "displayName": " Synth Wave '84 Luis Reyes' Remix",
-    "description": "Synth Wave '84 color theme Fork with minor changes",
-    "version": "0.0.4",
-    "author": "Luis Reyes",
-    "publisher": "luis-reyes",
+    "displayName": " Synth Wave '84 Min Theme",
+    "description": "Synth Wave '84 Luis Reyes' Remix color theme Fork with minor changes",
+    "version": "0.0.1",
+    "author": "Luan Kyrtinem",
+    "publisher": "LuanKY",
     "engines": {
-        "vscode": "^1.50.0"
+        "vscode": "^1.86.0"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/LuisReyes98/synthwave-remix-vscode"
+        "url": "https://github.com/LuanKY/synthwave-remix-vscode-min-theme"
     },
     "categories": [
         "Themes"
@@ -23,9 +23,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Synth Wave '84 Luis Reyes' Remix",
+                "label": "Synth Wave '84 Min Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/synth-wave-remix-color-theme.json"
+                "path": "./themes/synth-wave-min-theme-color-theme.json"
             }
         ]
     }
