@@ -5,7 +5,7 @@
 	"colors": {
 	    "focusBorder": "#444",
 	    "foreground": "#888888",
-	    "widget.shadow": "#1A1A1A",
+	    "widget.shadow": "#131313",
 	    "selection.background": "#ffffff20",
 	    "errorForeground": "#fe4450",
 	    "textLink.activeForeground": "#fafafa",
@@ -92,7 +92,7 @@
 	    "editorGutter.deletedBackground": "#fa2e46a4",
 	    "diffEditor.insertedTextBackground": "#3a632a4b",
 	    "diffEditor.removedTextBackground": "#88063852",
-	    "editorWidget.background": "#171520DC",
+	    "editorWidget.background": "#252525",
 	    "editorWidget.border": "#ffffff22",
 	    "editorWidget.resizeBorder": "#ffffff44",
 	    "editorSuggestWidget.background": "#1A1A1A",
